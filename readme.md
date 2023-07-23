@@ -6,4 +6,4 @@ helo this message is originally originated from branch1
 
 this msg is from branch1
 
-conflict
+non-conflict
