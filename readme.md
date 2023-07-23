@@ -4,4 +4,4 @@ and will do what i can
 
 helo this message is originally originated from branch1
 
-this msg is from main branch
+this msg is from branch1
